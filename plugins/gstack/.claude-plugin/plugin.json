@@ -1,0 +1,13 @@
+{
+  "name": "gstack",
+  "version": "0.1.0",
+  "description": "Guillem's skill set: g-mode agent style, blast radius, TDD, unslop/deslop, no-comments, PR upkeep, verification skills, and the principle skills behind them.",
+  "author": {
+    "name": "Guillem Garcia",
+    "url": "https://github.com/GuillemGarciaDev"
+  },
+  "homepage": "https://github.com/GuillemGarciaDev/gstack",
+  "repository": "https://github.com/GuillemGarciaDev/gstack",
+  "license": "MIT",
+  "keywords": ["skills", "workflow", "code-quality", "verification"]
+}

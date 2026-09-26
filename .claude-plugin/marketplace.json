@@ -1,0 +1,20 @@
+{
+  "name": "gstack",
+  "owner": {
+    "name": "Guillem Garcia",
+    "url": "https://github.com/GuillemGarciaDev"
+  },
+  "metadata": {
+    "description": "Guillem's Claude Code plugins.",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "gstack",
+      "source": "./plugins/gstack",
+      "description": "Guillem's skill set: g-mode agent style, blast radius, TDD, unslop/deslop, no-comments, PR upkeep, verification skills, and the principle skills behind them.",
+      "version": "0.1.0",
+      "category": "productivity"
+    }
+  ]
+}
